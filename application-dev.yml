@@ -1,0 +1,2 @@
+spring.data.mongodb.uri=mongodb://localhost:27017/config
+spring.cloud.config.server.mongodb.enabled=true
